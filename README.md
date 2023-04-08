@@ -1,6 +1,11 @@
 # helm-basic
 repo to understand basics of helm
 
+## install helm
+
+ref : https://helm.sh/docs/intro/install/
+
+
 ## What are Helm and Helm chart?
 
 Helm is a package manager for Kubernetes and helps to manage Kubernetes applications. And helm chart repository is an HTTP server that houses an index.yaml file and optionally some packaged charts.
